@@ -1,4 +1,3 @@
-
 <h1 align="center"> Software Developer Master Portfolio 🔥 </h1>
 <h3 align="center"> A clean, beautiful, responsive, and 100% customizable portfolio <br /> template for Software Developers! </h3>
 
@@ -27,8 +26,6 @@
 ✔️ Skills \
 ✔️ Open Source Projects Connected with Github\
 ✔️ Experience\
-✔️ Certifications 🏆\
-✔️ Blogs\
 ✔️ Education\
 ✔️ Contact me
 
@@ -46,6 +43,7 @@ To view a live example, **[click here](https://pushkarnaral.github.io/)**
   ```
 
   This will clone the whole repository in your system.
+
 - To download required dependencies to your system, navigate to the directory where the cloned repository resides and execute following command:
 
   ```node
